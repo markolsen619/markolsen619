@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markolsen619
-- 👀 I’m interested in ... Python, Cloud computing,Blockhain/Crypto, AI and machine learning
+- 👀 I’m interested in ... Python, Cloud computing, Blockhain/Crypto, AI and machine learning
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... Anything and everything
 - 📫 How to reach me ... olsen.mark85@gmail.com
